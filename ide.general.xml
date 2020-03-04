@@ -10,7 +10,6 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
-    <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="ide.win.file.chooser.native" value="true" />
@@ -21,7 +20,6 @@
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
-    <entry key="show.log.as.editor.tab" value="false" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
   </component>
