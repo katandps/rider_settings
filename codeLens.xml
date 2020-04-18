@@ -6,5 +6,6 @@
         <entry key="VcsAuthorCodeLensProvider" value="false" />
       </map>
     </enabled>
+    <showUnavailable>false</showUnavailable>
   </component>
 </application>
